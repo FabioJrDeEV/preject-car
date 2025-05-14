@@ -1,0 +1,14 @@
+.icon {
+  top: 3px;
+  left: 33px;
+  z-index: 1;
+}
+
+.bg-red {
+  color: #ed3f3f;
+  border: none;
+}
+
+.bg-cinza {
+  color: #90a3bf;
+}
